@@ -3,16 +3,18 @@
 
 # Dependencies
 - Language: _i.e Python 3.8.3 
+
 - Packages / Libraries:
-    -pandas
-    -sklearn
-    -seaborn
-    -folium,
-    -numpy,
-    -math,
-    -geopandas
-    -bokeh
-    -matplotlib
+
+    - pandas
+    - sklearn
+    - seaborn
+    - folium,
+    - numpy,
+    - math,
+    - geopandas
+    - bokeh
+    - matplotlib
 
 # Datasets
 - NYC TLC: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
